@@ -7,7 +7,7 @@ This project demonstrates a smart way to tackle the gas leakage problem. The gas
 As the gas level falls down, the buzzer turns off automatically and the servo motor rotates back to 0 degrees. The display in the LCD changes to read "No gas leakage" respectively.
 
 
-Components used:
+# Components used:
 •	Arduino Uno R3
 •	LCD display
 •	Servo Motor
@@ -21,4 +21,4 @@ Components used:
 
 
 # Link To Live Demo: 
-https://www.tinkercad.com/things/ellzc3cbob7?sharecode=AudzhNFpL_-WBgLnZowEDYj_3FvhqBmSIo6EjPThHUo
+https://www.tinkercad.com/things/3S5Lwt0GApK-super-trug-stantia/editel?sharecode=TtJnnqCGb2nMTk0JF6kvapbkJpUcLaRDM-DOCjmD7IU
