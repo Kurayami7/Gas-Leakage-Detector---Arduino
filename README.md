@@ -22,3 +22,6 @@ As the gas level falls down, the buzzer turns off automatically and the servo mo
 
 # Link To Live Demo: 
 https://www.tinkercad.com/things/3S5Lwt0GApK
+
+# Video Demo:
+https://github.com/Kurayami7/Gas-Leakage-Detector---Arduino/assets/124408792/5b371768-2a70-4d16-97d9-489b5db5fb80
