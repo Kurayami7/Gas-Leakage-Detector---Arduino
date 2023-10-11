@@ -21,4 +21,4 @@ As the gas level falls down, the buzzer turns off automatically and the servo mo
 
 
 # Link To Live Demo: 
-https://www.tinkercad.com/things/3S5Lwt0GApK-super-trug-stantia/editel?sharecode=TtJnnqCGb2nMTk0JF6kvapbkJpUcLaRDM-DOCjmD7IU
+https://www.tinkercad.com/things/3S5Lwt0GApK
