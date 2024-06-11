@@ -8,16 +8,16 @@ As the gas level falls down, the buzzer turns off automatically and the servo mo
 
 
 # Components used:
-•	Arduino Uno R3
-•	LCD display
-•	Servo Motor
-•	Capacitor
-•	Resistors
-• Potentiometer
-•	LED
-•	Connecting wires
-•	Buzzer
-•	Transistor
+* •	Arduino Uno R3
+* •	LCD display
+* •	Servo Motor
+* •	Capacitor
+* •	Resistors
+* • Potentiometer
+* •	LED
+* •	Connecting wires
+* •	Buzzer
+* •	Transistor
 
 
 # Link To Live Demo: 
